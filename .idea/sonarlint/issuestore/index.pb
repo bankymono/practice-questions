@@ -9,3 +9,5 @@ S
 -src/main/java/org/example/ArrayProblems2.java,e\0\e0ddd0aa78bf35a232eadef3321280b4f4d30d51
 ]
 -src/main/java/org/example/ArrayProblems3.java,d\d\dd2ce163ab3dc31d4ea1963479ec7bf2ff3e7a2f
+]
+-src/main/java/org/example/ArrayProblems4.java,e\9\e97016969807d31039d474fca51680c75f11a7c6
