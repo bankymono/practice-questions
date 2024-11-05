@@ -33,3 +33,11 @@ K
 src/main/java/org/Test.java,2\d\2d90b1307ff6833a5edf5e6bcf240cdc19d0f0bc
 ^
 .src/main/java/org/example/ArrayProblems3b.java,5\d\5d84e47203f81b8147f5a3071637fec7c748c6cc
+]
+-src/main/java/org/example/ArrayProblem4b.java,8\8\88b18430c3d90722c7f57083b43c607b9c50ea35
+^
+.src/main/java/org/example/ArrayProblems4b.java,2\e\2e55c632d862b2c8ab9eaf521f8a6daff36bd0b3
+^
+.src/main/java/org/example/ArrayProblems5b.java,f\f\ff405ebae31fd15b02943e9fe4b9a588c274475e
+]
+-src/main/java/org/example/ArrayProblems6.java,9\c\9c8bb42ceb910fabb6e5f04dc42db52f92cdef9a
