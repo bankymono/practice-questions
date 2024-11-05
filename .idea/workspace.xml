@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c364d52-06ed-4d4c-9639-e1ee42536e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayProblems4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayProblems5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayProblems1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayProblems2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayProblems3b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0ddd0aa78bf35a232eadef3321280b4f4d30d51" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0ddd0aa78bf35a232eadef3321280b4f4d30d51" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -39,9 +42,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayProblems1.executor": "Run",
+    "Application.ArrayProblems1b.executor": "Run",
     "Application.ArrayProblems2.executor": "Run",
+    "Application.ArrayProblems2b.executor": "Run",
     "Application.ArrayProblems3.executor": "Run",
+    "Application.ArrayProblems3b.executor": "Run",
     "Application.ArrayProblems5.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -49,13 +56,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayProblems5">
-    <configuration name="ArrayProblems1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems1" />
+  <component name="RunManager" selected="Application.ArrayProblems3b">
+    <configuration name="ArrayProblems1b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems1b" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="package2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayProblems2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems2" />
+    <configuration name="ArrayProblems2b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems2b" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="package2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayProblems3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems3" />
+    <configuration name="ArrayProblems3b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems3b" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
@@ -94,7 +101,20 @@
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test" />
+      <module name="practice-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayProblems3b" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArrayProblems2b" />
+        <item itemvalue="Application.ArrayProblems1b" />
         <item itemvalue="Application.ArrayProblems5" />
-        <item itemvalue="Application.ArrayProblems3" />
-        <item itemvalue="Application.ArrayProblems2" />
-        <item itemvalue="Application.ArrayProblems1" />
       </list>
     </recent_temporary>
   </component>

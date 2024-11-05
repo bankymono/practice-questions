@@ -11,3 +11,25 @@ S
 -src/main/java/org/example/ArrayProblems3.java,d\d\dd2ce163ab3dc31d4ea1963479ec7bf2ff3e7a2f
 ]
 -src/main/java/org/example/ArrayProblems4.java,e\9\e97016969807d31039d474fca51680c75f11a7c6
+]
+-src/main/java/org/example/ArrayProblems5.java,c\4\c422fabcb6217a16e0fed4764b83ed8480f42dcb
+^
+.src/main/java/org/example/ArrayProblems1b.java,7\3\7365efbc731d00bb5994c3fbfb5bdbfa72ba0d59
+^
+.src/main/java/org/example/ArrayProblems2b.java,0\e\0e54e329d83b2c89500f694ec8da4d057d58747c
+P
+ src/main/java/org/example/A.java,7\c\7cb6ae4caaaad66886c241d79c0d0449cff80213
+S
+#src/main/java/org/example/Test.java,a\d\ad60b8b6e75b7d80ea3441c372d5f5b965deca7c
+P
+ src/main/java/org/example/B.java,1\3\1356dbdd713b914368cff635820fe95d92f2c1d2
+M
+src/main/java/package2/B.java,6\5\656ace6cc18f32bbdbae8aec69efbf8907352ef8
+Y
+)src/main/java/org/example/package2/B.java,8\9\89542a3a3bc296c43eb7759ac890d9290a5a270e
+Q
+!src/main/java/org/package2/B.java,e\9\e9e530e7eb834f067f1e84b5af3ec06d80814394
+K
+src/main/java/org/Test.java,2\d\2d90b1307ff6833a5edf5e6bcf240cdc19d0f0bc
+^
+.src/main/java/org/example/ArrayProblems3b.java,5\d\5d84e47203f81b8147f5a3071637fec7c748c6cc
