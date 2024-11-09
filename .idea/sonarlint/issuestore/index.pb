@@ -35,3 +35,7 @@ S
 .src/main/java/org/example/ArrayProblems10.java,a\3\a317413ab63752ce05f2b1382cb499b7d8e73829
 ^
 .src/main/java/org/example/ArrayProblems11.java,6\e\6e858107b34452f31b8a3cabe83bf2be60991ca4
+^
+.src/main/java/org/example/ArrayProblems12.java,3\c\3cb085298f2e3fd5f1ee0f1470c55ca7d428a27c
+g
+7src/main/java/dynamic_sliding_window/ArrayProblem1.java,b\c\bc54d5a46713db2445d6d500ba346f50997e3662
