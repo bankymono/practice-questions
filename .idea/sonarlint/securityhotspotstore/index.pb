@@ -35,7 +35,13 @@ S
 .src/main/java/org/example/ArrayProblems10.java,a\3\a317413ab63752ce05f2b1382cb499b7d8e73829
 ^
 .src/main/java/org/example/ArrayProblems11.java,6\e\6e858107b34452f31b8a3cabe83bf2be60991ca4
-^
-.src/main/java/org/example/ArrayProblems12.java,3\c\3cb085298f2e3fd5f1ee0f1470c55ca7d428a27c
 g
 7src/main/java/dynamic_sliding_window/ArrayProblem1.java,b\c\bc54d5a46713db2445d6d500ba346f50997e3662
+i
+9src/main/java/org/example/SuppressedExceptionExample.java,a\0\a02cfc92fec78a00df0bafe69da69a6ece6389df
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+_
+/src/main/java/dynamic_sliding_window/Ds001.java,4\e\4ea26ff43b86f472ae037ffbfdacb8163f9d92a2
+L
+src/main/java/rand/Test.java,b\a\bab47bfd8287075ad80d372fd492c4f983cb7ee8

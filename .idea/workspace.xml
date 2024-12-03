@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c364d52-06ed-4d4c-9639-e1ee42536e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dynamic_sliding_window/ArrayProblem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c364d52-06ed-4d4c-9639-e1ee42536e31" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +48,9 @@
     "Application.ArrayProblems7.executor": "Run",
     "Application.ArrayProblems8.executor": "Run",
     "Application.ArrayProblems9.executor": "Run",
+    "Application.Ds001.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SuppressedExceptionExample.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +59,12 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayProblem1">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ds001">
     <configuration name="ArrayProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_sliding_window.ArrayProblem1" />
       <module name="practice-questions" />
@@ -75,8 +78,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayProblems10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems10" />
+    <configuration name="Ds001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_sliding_window.Ds001" />
+      <module name="practice-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic_sliding_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="practice-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuppressedExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SuppressedExceptionExample" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
@@ -88,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayProblems11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems11" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rand.Test" />
       <module name="practice-questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayProblems8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems8" />
-      <module name="practice-questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayProblems9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ArrayProblems9" />
-      <module name="practice-questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="rand.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ds001" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArrayProblem1" />
-        <item itemvalue="Application.ArrayProblems11" />
-        <item itemvalue="Application.ArrayProblems10" />
-        <item itemvalue="Application.ArrayProblems9" />
-        <item itemvalue="Application.ArrayProblems8" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SuppressedExceptionExample" />
       </list>
     </recent_temporary>
   </component>
