@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Ds001 {
     public static void main(String[] args) {
-        String s = "abcabcbb"; 
+        String s = "abcabcbb";
        System.out.println(String.format("The subarray length is -> %s", lengthOfLongestSubstring(s)));
     }
 
@@ -25,7 +25,8 @@ public class Ds001 {
 
         chars.add(currentChar);
 
-        maxLength = Math.max(maxLength, right - left + 1);
+        maxLength = Math.max(maxLength, chars.size());
+        // maxLength = Math.max(maxLength, right - left + 1); 
     }
 
     return maxLength;
