@@ -5,8 +5,8 @@ import java.util.Map;
 
 public class Ds002 {
     public static void main(String[] args) {
-        String s = "ADOBECODEBANC";
-        String t = "ABC";
+        String s = "a";
+        String t = "a";
         System.out.println(String.format("the min substring -> %s", minWindow(s,t)));
     }
 

@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c364d52-06ed-4d4c-9639-e1ee42536e31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dynamic_sliding_window/Ds002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dynamic_sliding_window/Ds003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ea26ff43b86f472ae037ffbfdacb8163f9d92a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ea26ff43b86f472ae037ffbfdacb8163f9d92a2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab47bfd8287075ad80d372fd492c4f983cb7ee8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab47bfd8287075ad80d372fd492c4f983cb7ee8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamic_sliding_window/Ds002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dynamic_sliding_window/Ds002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,7 @@
     "Application.Ds001.executor": "Run",
     "Application.Ds001b.executor": "Run",
     "Application.Ds002.executor": "Run",
+    "Application.Ds003.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SuppressedExceptionExample.executor": "Run",
     "Application.Test.executor": "Run",
@@ -69,20 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ds002">
-    <configuration name="ArrayProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamic_sliding_window.ArrayProblem1" />
-      <module name="practice-questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dynamic_sliding_window.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ds003">
     <configuration name="Ds001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_sliding_window.Ds001" />
       <module name="practice-questions" />
@@ -122,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ds003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic_sliding_window.Ds003" />
+      <module name="practice-questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamic_sliding_window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rand.Test" />
       <module name="practice-questions" />
@@ -137,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ds003" />
         <item itemvalue="Application.Ds002" />
         <item itemvalue="Application.Ds001" />
         <item itemvalue="Application.Ds001b" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArrayProblem1" />
       </list>
     </recent_temporary>
   </component>

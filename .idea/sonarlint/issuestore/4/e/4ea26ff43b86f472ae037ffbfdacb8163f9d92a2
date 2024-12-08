@@ -1,7 +1,3 @@
 
-K
-java:S1854"5Remove this useless assignment to local variable "s".(†ÿÃš
-<
-java:S1481"&Remove this unused "s" local variable.(†ÿÃš
-P	java:S125"<This block of commented-out lines of code should be removed.(ÙÞ)
-Q	java:S125	"<This block of commented-out lines of code should be removed.(ÓŽ—
+L	java:S106	"+Replace this use of System.out by a logger.(î„«Æÿÿÿÿÿ8íÐ­§º2
+]	java:S125"<This block of commented-out lines of code should be removed.(ÐôÍ™ýÿÿÿÿ8ðÐ­§º2

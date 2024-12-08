@@ -1,6 +1,10 @@
 
-R
-java:S3518"7Make sure "b" can't be zero before doing this division.(˜ÿŽ¤ûÿÿÿÿ
-5
-java:S1659"Declare "b" on a separate line.(Â¯Ÿ¬
-E	java:S106"+Replace this use of System.out by a logger.(˜ÿŽ¤ûÿÿÿÿ
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(’Ëú‹8ÙÔ­§º2
+X	java:S125"<This block of commented-out lines of code should be removed.(¢´Ù8ÆÖ­§º2
+B
+java:S2129" Remove this "String" constructor(å„»ëúÿÿÿÿ8û×­§º2
+B
+java:S2129" Remove this "String" constructor(ý‰ÙÕûÿÿÿÿ8ý×­§º2
+G	java:S106"+Replace this use of System.out by a logger.(’Ëú‹8šØ­§º2
+L	java:S106"+Replace this use of System.out by a logger.(â’â¨ùÿÿÿÿ8¨Ø­§º2
